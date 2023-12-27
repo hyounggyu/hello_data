@@ -1,5 +1,5 @@
 polars
-dask
+dask[dataframe]
 duckdb
 pyarrow
 numpy
