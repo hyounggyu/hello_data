@@ -1,3 +1,4 @@
+pandas
 polars
 dask[dataframe,diagnostics]
 duckdb
